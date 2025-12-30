@@ -1,0 +1,13 @@
+[global]
+monitor = 0
+follow = mouse
+width = 300
+origin = top-right
+offset = (20, 20)
+padding = 12
+horizontal_padding = 12
+frame_width = 1
+frame_color = "#5f7f8a"
+separator_height = 2
+font = monospace 10
+background = "#0c1014cc"
